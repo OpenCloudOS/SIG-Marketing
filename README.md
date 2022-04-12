@@ -23,8 +23,8 @@
 
 ## 联络方式 Contacts
 * 邮件列表 sig-marketing@lists.opencloudos.org
-* 组长邮件列表 
-* 秘书邮件列表 
+* 组长邮件列表 sig-chair-marketing@lists.opencloudos.org
+* 秘书邮件列表 sig-secretary-marketing@lists.opencloudos.org
 
 ## 如何加入品宣SIG并参与贡献
 	1.注册GitHub账号
